@@ -9,4 +9,4 @@ from tkinter import ttk
 root = Tk()
 button = ttk.Label(root, text = "click me")
 button.pack()
-
+mainloop()
