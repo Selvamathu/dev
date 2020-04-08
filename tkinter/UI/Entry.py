@@ -13,8 +13,8 @@ button.pack()
 
 
 def saveEntry( ):
-   text = entry.get() 
-   print( text )
+    text = entry.get() 
+    print( text )
     
 button.config(command = saveEntry )
 
